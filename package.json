@@ -1,7 +1,7 @@
 {
-  "name": "react-character-counter",
-  "version": "1.0.1",
-  "description": "A React Wrapper Component to display character counts against controllered input elements",
+  "name": "@fgerards/react-character-counter",
+  "version": "1.1.0",
+  "description": "A fork of the React Wrapper Component to display character counts against controllered input elements",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fakhir-shad/react-character-counter.git"
+    "url": "git+https://github.com/fgerards/react-character-counter/"
   },
   "author": "Fakhir Shad",
   "license": "MIT",
@@ -25,14 +25,19 @@
     "@babel/preset-react": "^7.0.0",
     "babel-plugin-transform-class-properties": "^6.24.1",
     "prop-types": "^15.7.2",
-    "react": "^16.8.5",
-    "react-dom": "^16.8.5"
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
   },
   "contributors": [
     {
       "name": "Muaaz Rafi",
       "email": "muaaz.rafi@virtual-force.com",
       "url": "https://github.com/muaaz-vf"
+    },
+     {
+      "name": "Frank Gerards",
+      "email": "info@typo3expertise.de",
+      "url": "https://github.com/fgerards"
     }
   ],
   "keywords": [
