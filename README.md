@@ -36,6 +36,7 @@ state = {
   wrapperStyle: Object, Optional
   characterCounterStyle: Object, Optional
   overrideStyle: Boolean, Optional
+  warningThreshold: Number, Optional
 }
 ```
 
